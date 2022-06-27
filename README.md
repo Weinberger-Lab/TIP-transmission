@@ -1,4 +1,4 @@
-Initial release (v1.0):
+Initial release (v1.0):<br>
 [![DOI](https://zenodo.org/badge/508060682.svg)](https://zenodo.org/badge/latestdoi/508060682)
 
 # TIP-transmission
